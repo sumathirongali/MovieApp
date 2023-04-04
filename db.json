@@ -1,0 +1,117 @@
+{
+  "users": [
+    {
+      "name": "pavankumar bashetty",
+      "age": 30,
+      "email": "pavankumar.rb25@gmail.com",
+      "password": "$2a$10$Fn9KXctuEgSSZidgzMeyiONmbmDpExHcLbtlEYAY1Gpo9vKzOxUXK",
+      "id": 1
+    },
+    {
+      "name": "gohan",
+      "age": 20,
+      "email": "gohan@gmail.com",
+      "password": "$2a$10$gKzGfPZNSkC2uOud7lmdPO9o4ukD8DAUTAF9Ve6vRmYohlTcxBV36",
+      "id": 2
+    },
+    {
+      "name": "goten",
+      "age": 20,
+      "email": "goten@gmail.com",
+      "password": "$2a$10$OzLnElS4ofRr0mE2yC0dtujL5jZEw6yf2qdcXMB.CcTqUDHGwnV/G",
+      "id": 3
+    },
+    {
+      "name": "vegeta",
+      "age": 60,
+      "email": "vegeta@gmail.com",
+      "password": "$2a$10$rkkVzfHpV675CPfrzNaOi.PDo/6EJKIaDjBtxf0TPtksQ0E9IcJXK",
+      "id": 4
+    },
+    {
+      "name": "trunks",
+      "age": 19,
+      "email": "trunks@gmail.com",
+      "password": "$2a$10$IHFpB02ILuj7LZk9TUMVTuGDDG/TYk1wnhdJYky36zrLZZzlzfazm",
+      "id": 5
+    },
+    {
+      "name": "chichi",
+      "age": 40,
+      "email": "chichi@gmail.com",
+      "password": "$2a$10$eZKqVqafjCmE5R/mh9zGGOGJk4apLVmWf77rLBuqUx/GySZHHYw3K",
+      "id": 6
+    },
+    {
+      "name": "ravi",
+      "age": 24,
+      "email": "ravi@gmail.com",
+      "password": "$2a$10$fv0JEK/yX7XePBl1rQrF7udZ0MnJSbJ1Zp.m2Q.wlfhfQBfWAxpUy",
+      "id": 7
+    },
+    {
+      "name": "picaalo",
+      "age": 60,
+      "email": "picaalo@gmail.com",
+      "password": "$2a$10$2Vu5QE4TWCBfKoi5BgyFuuaE6LKFCKJoGffsDZGr60u1ROiUNVHom",
+      "id": 8
+    },
+    {
+      "name": "cell",
+      "age": 6,
+      "email": "cell@gmail.com",
+      "password": "$2a$10$hnIDkuureeTgxWOal/20lurpdfjRYZKLgsKtiHXcmP4lWIgu9E2Xe",
+      "id": 9
+    },
+    {
+      "name": "leo messi",
+      "age": "35",
+      "email": "messi@gmail.com",
+      "password": "$2a$10$HkVGrH4dwS9jX7qQga4zxeO9417OzC9NgOzsh7kPLvLdXrR.OtS7y",
+      "id": 10
+    },
+    {
+      "name": "Sheldon Cooper",
+      "age": "45",
+      "email": "sheldon@gmail.com",
+      "password": "$2a$10$YYjSb0cQ/C.3HcLIjHdg5usno6sbQHGeK4eF741BvduY7QBJ.OLCW",
+      "id": 11
+    },
+    {
+      "name": "Leonard",
+      "age": "44",
+      "email": "leonard@gmail.com",
+      "password": "$2a$10$TXmqk2GAlxpP1RKmJ3ZMfet6KvFDkcNrhi9e55JJYzLdH8gK2476u",
+      "id": 12
+    }
+  ],
+  "favorites": [
+    {
+      "email": "vegeta@gmail.com",
+      "movieName": "Avengers",
+      "Genre": "Action",
+      "Director": "Alpha",
+      "movieRating": 3,
+      "moviePoster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+      "id": 1
+    },
+    {
+      "email": "vegeta@gmail.com",
+      "movieName": "Avatar",
+      "Genre": "Action",
+      "Director": "James",
+      "movieRating": "7.8",
+      "moviePoster": "https://m.media-amazon.com/images/M/MV5BNjA3NGExZDktNDlhZC00NjYyLTgwNmUtZWUzMDYwMTZjZWUyXkEyXkFqcGdeQXVyMTU1MDM3NDk0._V1_SX300.jpg",
+      "id": 2
+    },
+    {
+      "email": "gohan@gmail.com",
+      "movieName": "Top Gun: Maverick",
+      "Genre": "Action, Drama",
+      "Director": "Joseph Kosinski",
+      "movieRating": "8.4",
+      "moviePoster": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg",
+      "id": 3
+    }
+  ]
+}
